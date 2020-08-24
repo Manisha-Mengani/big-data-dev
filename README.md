@@ -8,6 +8,7 @@ I want to be a full stack developer.I'm also interested to learn to predict data
 ## Links:
 Here is my LinkedIn profile: [Linked in](https://www.linkedin.com/in/manisha-mengani)
 
+- ![Manisha Mengani](manishamengani.jpg)
 
 
 
